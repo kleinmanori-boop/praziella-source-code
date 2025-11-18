@@ -1,0 +1,5 @@
+{
+  "name": "Praziella Creative Editor",
+  "description": "A web-based creative editor for image and video generation powered by Gemini and Veo.",
+  "requestFramePermissions": []
+}
